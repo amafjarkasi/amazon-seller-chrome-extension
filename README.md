@@ -1,4 +1,4 @@
-<h1 align="center">Amazon Seller Chrome Extension 👋</h1>
+<h1 align="center">Amazon Seller Save - Chrome Extension 👋</h1>
 <p>
 </p>
 
